@@ -1,3 +1,4 @@
+Final verification of automatic Jenkins pipeline and email notifications.
 Second automatic pipeline test completed.
 Testing automatic Jenkins email notification.
 # Goof - Snyk's vulnerable demo app
